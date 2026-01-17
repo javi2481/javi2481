@@ -37,20 +37,19 @@ Throughout my career at **Droguería Rocar SRL**, I evolved from managing large-
 ## 🎯 Featured Portfolio & Research
 
 ### 🏎️ OpenF1 Advanced Telemetry
-High-frequency data ingestion and real-time visualization system. 
-- **Stack:** ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi)
-- Developed a pipeline to consume real-time telemetry from the **OpenF1 API**, processing sensor data for predictive performance analysis.
+High-frequency data ingestion and real-time visualization system.
+- **Stack:** ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat&logo=python&logoColor=black) ![Seaborn](https://img.shields.io/badge/-Seaborn-4479A1?style=flat)
+- Developed a pipeline to consume and clean real-time telemetry from the **OpenF1 API**. I focused on processing sensor data using **Pandas** for predictive performance analysis and exploratory data research.
 
 ### 💊 Pharma-Trade Intelligence
 Strategic research on international trade agreements and their impact on local pharmaceutical distribution.
-- **Stack:** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
-- Leveraging 15 years of industry expertise to analyze trade data between Argentina and the US, identifying supply chain optimizations for the local market.
+- **Stack:** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+- Leveraging 15 years of industry expertise to analyze trade data between Argentina and the US. I used **SQL** for data extraction and **Power BI** to identify supply chain optimizations and market trends.
 
-### 🤖 AI Strategy & Automation 
+### 🤖 AI Strategy & Automation
 Architecting scalable data labeling and automated workflows for AI training.
-- **Stack:** ![n8n](https://img.shields.io/badge/-n8n-FF6C37?style=flat&logo=n8n) ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white) ![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat&logo=replit&logoColor=white)
-- Designing automated pipelines for data labeling and LLM integration to streamline the development of production-ready AI models.
-
+- **Stack:** ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+- Designing automated pipelines and applying **Machine Learning** basics to streamline the development of production-ready models. I focused on data labeling workflows and LLM integration to improve operational efficiency.
 ---
 📫 **Get in touch:**
 [LinkedIn](YOUR_LINKEDIN_URL_HERE) | [Email](mailto:rjavierst@gmail.com)
