@@ -1,29 +1,32 @@
-# ¡Hola! Soy Javier Berrone 👋
+# Hi there, I'm Javier Berrone! 👋
 
-### 👨‍💻 Profesional en de Ciencia de Datos e Inteligencia Artificial
+### 📊 Data Scientist & Analytical Strategist
+Bridging 15 years of operational leadership with advanced data-driven engineering. I specialize in transforming complex business challenges into actionable insights through Machine Learning and predictive analytics.
 
 ---
 
-## 🚀 Sobre mí
-- 🎓 **Formación:** Finalizando el primer año de la Tecnicatura Superior en Ciencia de Datos e IA.
-- 💼 **Experiencia Previa:** +15 años liderando áreas de compras y gestión en la industria farmacéutica, lo que me brinda una visión de negocio única para el análisis de datos.
-- 💡 **Intereses:** Machine Learning, automatización con herramientas Low-Code (n8n, Replit) y visualización de datos.
+## 🚀 Professional Background
+Throughout my career at **Droguería Rocar SRL**, I evolved from managing large-scale procurement to architecting data solutions for the pharmaceutical supply chain. My recent formalization in **Data Science & AI (ISTEA)** serves to certify a trajectory built on real-world analytical implementations:
 
-## 🛠️ Mi Tech Stack
+- **Predictive Inventory Management:** Built custom forecasting models to mitigate stock volatility and optimize procurement cycles in a high-stakes pharmaceutical environment.
+- **Business Intelligence & Dashboards:** Designed and deployed automated reporting systems using Python and Power BI to monitor market trends and supplier performance.
+- **Process Optimization:** Applied Machine Learning basics to streamline logistical workflows, significantly improving operational efficiency.
+
+## 🛠️ Technical Expertise
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 📊 Mis Estadísticas de GitHub
-![Estadísticas de Javier](https://github-readme-stats.vercel.app/api?username=javi2481&show_icons=true&theme=tokyonight&count_private=true)
+## 📊 Performance Metrics
+![Javier's Stats](https://github-readme-stats.vercel.app/api?username=javi2481&show_icons=true&theme=tokyonight&count_private=true)
 
-## 🎯 Proyectos en Desarrollo
-* **Análisis de Telemetría F1:** Procesamiento de datos en tiempo real mediante la API OpenF1.
-* **Laboratorio de Datos:** Repositorios con ejercicios de integración de datos y minería desarrollados en ISTEA.
-* **Optimización Farmacéutica:** Aplicación de modelos analíticos para la gestión de inventarios y compras.
+## 🎯 Current Portfolio & Research
+- **OpenF1 Advanced Telemetry:** High-frequency data ingestion and real-time visualization project.
+- **Pharma-Trade Analytics:** Deep-dive research into international trade data and its impact on local pharmaceutical distribution.
+- **AI Automation:** Architecting scalable data labeling and automation workflows (n8n, Replit).
 
 ---
-📫 **¿Cómo contactarme?**
-[LinkedIn](AQUÍ_VA_TU_LINK_DE_LINKEDIN) | [Email](mailto:tu-email@ejemplo.com)
+📫 **Get in touch:**
+[LinkedIn](YOUR_LINKEDIN_URL_HERE) | [Email](mailto:rjavierst@gmail.com)
