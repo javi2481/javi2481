@@ -13,11 +13,23 @@ Throughout my career at **Droguería Rocar SRL**, I evolved from managing large-
 - **Process Optimization:** Applied Machine Learning basics to streamline logistical workflows, significantly improving operational efficiency.
 
 ## 🛠️ Technical Expertise
+
+### 🧪 Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🏗️ Data Engineering & Architecture
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Business Intelligence & Analytics
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E12C27?style=for-the-badge&logo=tableau&logoColor=white)
 
 ## 📊 Performance Metrics
 ![Javier's Stats](https://github-readme-stats.vercel.app/api?username=javi2481&show_icons=true&theme=tokyonight&count_private=true)
