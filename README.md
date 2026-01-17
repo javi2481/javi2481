@@ -34,10 +34,22 @@ Throughout my career at **Droguería Rocar SRL**, I evolved from managing large-
 ## 📊 Performance Metrics
 ![Javier's Stats](https://github-readme-stats.vercel.app/api?username=javi2481&show_icons=true&theme=tokyonight&count_private=true)
 
-## 🎯 Current Portfolio & Research
-- **OpenF1 Advanced Telemetry:** High-frequency data ingestion and real-time visualization project.
-- **Pharma-Trade Analytics:** Deep-dive research into international trade data and its impact on local pharmaceutical distribution.
-- **AI Automation:** Architecting scalable data labeling and automation workflows (n8n, Replit).
+## 🎯 Featured Portfolio & Research
+
+### 🏎️ OpenF1 Advanced Telemetry
+High-frequency data ingestion and real-time visualization system. 
+- **Stack:** ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi)
+- Developed a pipeline to consume real-time telemetry from the **OpenF1 API**, processing sensor data for predictive performance analysis.
+
+### 💊 Pharma-Trade Intelligence
+Strategic research on international trade agreements and their impact on local pharmaceutical distribution.
+- **Stack:** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
+- Leveraging 15 years of industry expertise to analyze trade data between Argentina and the US, identifying supply chain optimizations for the local market.
+
+### 🤖 AI Strategy & Automation 
+Architecting scalable data labeling and automated workflows for AI training.
+- **Stack:** ![n8n](https://img.shields.io/badge/-n8n-FF6C37?style=flat&logo=n8n) ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white) ![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat&logo=replit&logoColor=white)
+- Designing automated pipelines for data labeling and LLM integration to streamline the development of production-ready AI models.
 
 ---
 📫 **Get in touch:**
