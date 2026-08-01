@@ -40,7 +40,7 @@ Egreso estimado: **3–4 meses**.
 
 ## Stats
 
-![Javier's Stats](https://github-readme-stats.vercel.app/api?username=javi2481&show_icons=true&theme=transparent&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=javi2481&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
