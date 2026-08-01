@@ -38,13 +38,6 @@ Egreso estimado: **3–4 meses**.
 
 ---
 
-## Other projects
-
-- [proyecto-data-lens](https://github.com/javi2481/proyecto-data-lens) — data exploration / visualization
-- [calculadora_estadisticas](https://github.com/javi2481/calculadora_estadisticas) — statistics tooling (coursework)
-
----
-
 ## Stats
 
 ![Javier's Stats](https://github-readme-stats.vercel.app/api?username=javi2481&show_icons=true&theme=transparent&hide_border=true)
