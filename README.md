@@ -1,55 +1,54 @@
-# Hi there, I'm Javier Berrone! 👋
+# Hi, I'm Javier Berrone
 
-### 📊 Data Scientist & Analytical Strategist
-Bridging 15 years of operational leadership with advanced data-driven engineering. I specialize in transforming complex business challenges into actionable insights through Machine Learning and predictive analytics.
+**Data / ML / Computer Vision · Python · Docker**
+
+Building applied ML and computer-vision systems — from data pipelines to Dockerized perception apps.
 
 ---
 
-## 🚀 Professional Background
-Throughout my career at **Droguería Rocar SRL**, I evolved from managing large-scale procurement to architecting data solutions for the pharmaceutical supply chain. My recent formalization in **Data Science & AI (ISTEA)** serves to certify a trajectory built on real-world analytical implementations:
+## Featured
 
-- **Predictive Inventory Management:** Built custom forecasting models to mitigate stock volatility and optimize procurement cycles in a high-stakes pharmaceutical environment.
-- **Business Intelligence & Dashboards:** Designed and deployed automated reporting systems using Python and Power BI to monitor market trends and supplier performance.
-- **Process Optimization:** Applied Machine Learning basics to streamline logistical workflows, significantly improving operational efficiency.
+### [Timonel](https://github.com/javi2481/timonel)
+Orchestrates PaddleX detectors (objects, faces, pose, and more) over a single photo. Docker + FastAPI + SPA — turn layers on and see what each adds.
 
-## 🛠️ Technical Expertise
+### [IDP OCR Studio](https://github.com/javi2481/idp-ocr-studio)
+Academic OCR SPA with PP-OCRv6: upload images, infer, edit spatial text, export JSON / MD / CSV / annotated PNG. FastAPI + React.
 
-### 🧪 Data Science & Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🏗️ Data Engineering & Architecture
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 📊 Business Intelligence & Analytics
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E12C27?style=for-the-badge&logo=tableau&logoColor=white)
-
-## 📊 Performance Metrics
-![Javier's Stats](https://github-readme-stats.vercel.app/api?username=javi2481&show_icons=true&theme=tokyonight&count_private=true)
-
-## 🎯 Featured Portfolio & Research
-
-### 🏎️ OpenF1 Advanced Telemetry
-High-frequency data ingestion and real-time visualization system.
-- **Stack:** ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat&logo=python&logoColor=black) ![Seaborn](https://img.shields.io/badge/-Seaborn-4479A1?style=flat)
-- Developed a pipeline to consume and clean real-time telemetry from the **OpenF1 API**. I focused on processing sensor data using **Pandas** for predictive performance analysis and exploratory data research.
-
-### 💊 Pharma-Trade Intelligence
-Strategic research on international trade agreements and their impact on local pharmaceutical distribution.
-- **Stack:** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-- Leveraging 15 years of industry expertise to analyze trade data between Argentina and the US. I used **SQL** for data extraction and **Power BI** to identify supply chain optimizations and market trends.
-
-### 🤖 AI Strategy & Automation
-Architecting scalable data labeling and automated workflows for AI training.
-- **Stack:** ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-- Designing automated pipelines and applying **Machine Learning** basics to streamline the development of production-ready models. I focused on data labeling workflows and LLM integration to improve operational efficiency.
 ---
-📫 **Get in touch:**
-[LinkedIn](YOUR_LINKEDIN_URL_HERE) | [Email](mailto:rjavierst@gmail.com)
+
+## Formación
+
+Cursando la [Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial](https://www.istea.edu.ar/tecnicatura-superior-en-ciencias-de-datos) en **ISTEA** (título oficial, ~2 años / 1604 hs).  
+Egreso estimado: **3–4 meses**.
+
+---
+
+## Skills
+
+**Demonstrated in projects**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0A66C2?style=flat)
+![OCR](https://img.shields.io/badge/OCR%20%2F%20Document%20AI-111111?style=flat)
+
+**In progress (ISTEA)** — data lifecycle, SQL & statistics, mining, ML, NoSQL, cloud architectures, deep learning, NLP, GenAI / LLMs
+
+---
+
+## Other projects
+
+- [proyecto-data-lens](https://github.com/javi2481/proyecto-data-lens) — data exploration / visualization
+- [calculadora_estadisticas](https://github.com/javi2481/calculadora_estadisticas) — statistics tooling (coursework)
+
+---
+
+## Stats
+
+![Javier's Stats](https://github-readme-stats.vercel.app/api?username=javi2481&show_icons=true&theme=transparent&hide_border=true)
+
+---
+
+**Get in touch:** [LinkedIn](https://www.linkedin.com/in/javier-berrone-872317b6/) · [Email](mailto:rjavierst@gmail.com)
