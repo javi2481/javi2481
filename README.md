@@ -1,10 +1,8 @@
 # Hi, I'm Javier Berrone
 
-**Document AI & Computer Vision · OCR · Python · FastAPI · Docker**
+**AI Engineer · Document AI & Computer Vision · Python · FastAPI · Docker**
 
-I build document-AI and computer-vision systems: spatial OCR, detector orchestration, and structured extraction from real documents.
-
-Previously a data analyst at a pharmaceutical wholesaler (analysis and ML on operational data — SKU, lots, invoices). That pharma / distribution domain is the through-line in my work.
+I build applied AI systems for documents and vision: spatial OCR, detector orchestration, and structured extraction. Background in **pharma and retail** — operational data (SKU, lots, invoices, pharmacy supply chain).
 
 ---
 
@@ -25,6 +23,12 @@ Claims Intelligence kernel. Shipped instance: BYMA financial statements. Typed c
 
 ### [Amanuense](https://github.com/javi2481/Amanuense)
 Local demo: PDF or image to Markdown with VLMs via Hugging Face Inference Providers, plus A/B comparison.
+
+---
+
+## Background
+
+Data analyst at a **pharmaceutical wholesaler** (2020–2023): data analysis and machine-learning projects on operational and retail-channel data. Independent consultant since 2024, shipping document-AI and computer-vision prototypes (repos above).
 
 ---
 
@@ -49,7 +53,7 @@ Completing the [Tecnicatura Superior en Ciencia de Datos e Inteligencia Artifici
 
 ## Español
 
-Construyo sistemas de **document AI** y visión por computadora: OCR espacial, orquestación de detectores y extracción estructurada. Antes, analista de datos en **droguería** (análisis y machine learning sobre SKU, lotes, facturas). Tecnicatura en Ciencia de Datos e IA (ISTEA), egreso **diciembre 2026**. De analista hacia roles de **applied ML / document AI**.
+**AI Engineer** orientado a document AI y visión: OCR espacial, orquestación de detectores, extracción estructurada. Background en **pharma y retail** (droguería, dato operativo y canal farmacias). Tecnicatura en Ciencia de Datos e IA (ISTEA), egreso **diciembre 2026**.
 
 ---
 
