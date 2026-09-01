@@ -1,6 +1,6 @@
 # Hi, I'm Javier Berrone
 
-**ML, Data & AI Solutions Engineer | LLMs, RAG, OCR & AWS**
+**ML, Data & AI Solutions | LLMs, RAG, OCR | AI-driven SDD-TDD Development**
 
 I build applied AI systems for documents and vision: spatial OCR, detector orchestration, and structured extraction. Background in **pharma and retail** — operational data (SKU, lots, invoices, pharmacy supply chain).
 
