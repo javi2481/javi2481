@@ -11,10 +11,6 @@ I build applied AI systems for documents and vision: spatial OCR, detector orche
 ### [Timonel](https://github.com/javi2481/timonel)
 Orchestrates PaddleX detectors (objects, faces, pose, vehicles, and more) over a single photo. Docker Compose + FastAPI + SPA — toggle layers and see what each adds.
 
-```bash
-docker compose up --build --wait
-```
-
 ### [LexOCR](https://github.com/javi2481/LexOCR)
 Academic OCR SPA with PP-OCRv6: upload images, infer, edit spatial text, export JSON / MD / CSV / annotated PNG. FastAPI + React + TypeScript.
 
