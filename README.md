@@ -4,7 +4,7 @@
 
 I build applied systems for documents and vision: spatial OCR, detector orchestration, and structured extraction. The model orchestrates; deterministic code decides. Background in **pharma and retail** operations (SKU, lots, invoices, pharmacy channel).
 
-**Site:** [javi2481.github.io](https://javi2481.github.io/) · **LinkedIn:** [javier-berrone](https://www.linkedin.com/in/javier-berrone-872317b6/)
+**Site:** [javi2481.github.io](https://javi2481.github.io/) · **LinkedIn:** [javier-berrone](https://www.linkedin.com/in/javier-berrone/)
 
 ---
 
