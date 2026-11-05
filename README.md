@@ -29,11 +29,13 @@ Local demo: PDF or image to Markdown with VLMs via Hugging Face Inference Provid
 
 ## Background
 
-Data analyst at a pharmaceutical wholesaler (2020–2023): operational and pharmacy-channel data. Independent consultant since 2024, shipping document-AI and computer-vision prototypes (repos above).
+15 years at a pharmaceutical distributor in Argentina, across several areas of the business, including operational and pharmacy-channel data. I now build my own document-AI and computer-vision projects (repos above) and take on project-based work.
 
 ## Education
 
 Completing the [Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial](https://www.istea.edu.ar/tecnicatura-superior-en-ciencias-de-datos) at **ISTEA** (official degree, Argentina). Expected graduation: **December 2026**.
+
+Also in progress at Coderhouse: **AI Engineering** (ends December 2026) and **Forward Deployed Engineer** (ends January 2027).
 
 ## Skills
 
@@ -43,6 +45,6 @@ Python · Docker · FastAPI · TypeScript · Computer Vision · OCR / Document A
 
 ## Español
 
-**Applied AI · Document AI / OCR.** OCR espacial, orquestación de detectores, extracción estructurada. El modelo orquesta; el código decide. Background en pharma y retail (droguería, SKU, lotes, canal farmacias). ISTEA, egreso diciembre 2026.
+**Applied AI · Document AI / OCR.** OCR espacial, orquestación de detectores, extracción estructurada. El modelo orquesta; el código decide. 15 años en una distribuidora de medicamentos, en distintas áreas del negocio (SKU, lotes, canal farmacias). ISTEA, egreso diciembre 2026; AI Engineering y Forward Deployed Engineer en Coderhouse, en curso.
 
 Sitio: [javi2481.github.io](https://javi2481.github.io/)
